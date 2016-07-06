@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <permissions>
+        <title>Quản lý Slide</title>
+        <item>
+            <param>backend_setting/slide/view</param>
+            <description>Xem danh sách các ảnh của slide</description>
+        </item>
+        <item>
+            <param>backend_setting/slide/add</param>
+            <description>Thêm ảnh vào slide</description>
+        </item>
+        <item>
+            <param>backend_setting/slide/edit</param>
+            <description>Sửa slide</description>
+        </item>
+        <item>
+            <param>backend_setting/slide/del</param>
+            <description>Xóa ảnh của slide</description>
+        </item>
+    </permissions>
+    <permissions>
+        <title>Quản lý sidebar</title>
+        <item>
+            <param>backend_setting/sidebar/view</param>
+            <description>Xem danh sách các phần tử của sidebar</description>
+        </item>
+        <item>
+            <param>backend_setting/sidebar/add</param>
+            <description>Thêm phần tử vào sidebar</description>
+        </item>
+        <item>
+            <param>backend_setting/sidebar/edit</param>
+            <description>Sửa phần tử ở sidebar</description>
+        </item>
+        <item>
+            <param>backend_setting/sidebar/del</param>
+            <description>Xóa phần tử ở sidebar</description>
+        </item>
+    </permissions>
+</module>

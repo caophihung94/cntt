@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <permissions>
+        <title>Quản lý bài viết</title>
+        <item>
+            <param>backend_post/post/view</param>
+            <description>Xem danh sách bài viết</description>
+        </item>
+        <item>
+            <param>backend_post/post/add</param>
+            <description>Thêm bài viết</description>
+        </item>
+        <item>
+            <param>backend_post/post/edit</param>
+            <description>Sửa bài viết</description>
+        </item>
+        <item>
+            <param>backend_post/post/del</param>
+            <description>Xóa bài viết</description>
+        </item>
+    </permissions>
+    <permissions>
+        <title>Quản lý chuyên mục</title>
+        <item>
+            <param>backend_post/category/view</param>
+            <description>Xem chuyên mục</description>
+        </item>
+        <item>
+            <param>backend_post/category/add</param>
+            <description>Thêm chuyên mục</description>
+        </item>
+        <item>
+            <param>backend_post/category/edit</param>
+            <description>Sửa chuyên mục</description>
+        </item>
+        <item>
+            <param>backend_post/category/del</param>
+            <description>Xóa chuyên mục</description>
+        </item>
+    </permissions>    
+    <permissions>
+        <title>Quản lý đồ án</title>
+        <item>
+            <param>backend_post/document/view</param>
+            <description>Xem danh sách đồ án</description>
+        </item>
+        <item>
+            <param>backend_post/document/add</param>
+            <description>Thêm đồ án</description>
+        </item>
+        <item>
+            <param>backend_post/document/edit</param>
+            <description>Sửa đồ án</description>
+        </item>
+        <item>
+            <param>backend_post/document/del</param>
+            <description>Xóa bài đồ án</description>
+        </item>
+    </permissions>
+</module>

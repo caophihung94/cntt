@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <permissions>
+        <title>Quản lý nhóm quyền</title>
+        <item>
+            <param>backend_user/group/view</param>
+            <description>Xem nhóm quyền</description>
+        </item>
+        <item>
+            <param>backend_user/group/add</param>
+            <description>Thêm nhóm quyền</description>
+        </item>
+        <item>
+            <param>backend_user/group/edit</param>
+            <description>Sửa nhóm quyền</description>
+        </item>
+        <item>
+            <param>backend_user/group/del</param>
+            <description>Xóa nhóm quyền</description>
+        </item>
+    </permissions>
+    <permissions>
+        <title>Quản lý thành viên</title>
+        <item>
+            <param>backend_user/user/view</param>
+            <description>Xem thành viên</description>
+        </item>
+        <item>
+            <param>backend_user/user/add</param>
+            <description>Thêm thành viên</description>
+        </item>
+        <item>
+            <param>backend_user/user/edit</param>
+            <description>Sửa thành viên</description>
+        </item>
+        <item>
+            <param>backend_user/user/del</param>
+            <description>Xóa thành viên</description>
+        </item>
+        <item>
+            <param>backend_user/user/update_profile</param>
+            <description>Cho phép thành viên tự cập nhật hồ sơ cá nhân</description>
+        </item>
+    </permissions>
+</module>

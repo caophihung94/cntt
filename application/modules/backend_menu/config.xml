@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <permissions>
+        <title>Quản lí menu</title>
+        <item>
+            <param>backend_menu/menu/view</param>
+            <description>Xem danh sách menu</description>
+        </item>
+        <item>
+            <param>backend_menu/menu/add</param>
+            <description>Thêm menu</description>
+        </item>
+        <item>
+            <param>backend_menu/menu/edit</param>
+            <description>Sửa menu</description>
+        </item>
+        <item>
+            <param>backend_menu/menu/del</param>
+            <description>Xóa menu</description>
+        </item>
+    </permissions>
+    <permissions>
+        <title>Quản lí bài viết của menu</title>
+        <item>
+            <param>backend_menu/page/view</param>
+            <description>Xem danh sách bài viết của menu</description>
+        </item>
+        <item>
+            <param>backend_menu/page/add</param>
+            <description>Thêm bài viết cho menu</description>
+        </item>
+        <item>
+            <param>backend_menu/page/edit</param>
+            <description>Sửa bài viết của menu</description>
+        </item>
+        <item>
+            <param>backend_menu/page/del</param>
+            <description>Xóa bài viết của menu</description>
+        </item>
+    </permissions>
+</module>
