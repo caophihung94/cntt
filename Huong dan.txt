@@ -6,18 +6,4 @@ Cơ sở dữ liệu: MYSQL
 Framework: Codeigniter 3.x
 -----------------------------
 Demo online: http://cntt.senviet.xyz
-Trang đăng nhập quản trị: http://cntt.senviet.xyz/admin
-Email đăng nhập: caophihung94@gmail.com
-Mật khẩu: 12345678
 -----------------------------
-Localhost
-
-db host: localhost
-db name: cntt
-db user: root
-db pass:
-
-
-Đăng nhập quản trị
-Email đăng nhập: caophihung94@gmail.com
-Mật khẩu: 12345678
